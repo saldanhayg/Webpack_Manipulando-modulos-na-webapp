@@ -9,13 +9,12 @@ Este curso faz parte da Formação Front End do programa Acelera Devs na TIVIT q
 O Acelera Devs é um programa de capacitação e formação de desenvolvedores full-stack. A iniciativa surgiu como uma resposta à alta demanda do mercado por desenvolvedores, uma vez que, segundo levantamento da Brasscom, há um déficit de 24 mil formandos na área de Tecnologia da Informação (TI). 
 
 
-## Instalação : 
+## Instalação 💻
 
-Não esqueçam de entrar dentro da pasta `client` e executar o comando `npm install` antes de utilizar o projeto.
-<br>
+Não esqueçam de entrar dentro da pasta `client` e executar o comando `npm install` antes de utilizar o projeto.<br>
 Para ativar a compilação em tempo real, dentro de `client`, execute o comando `npm run watch`.
 
-## Sobre: 
+## Sobre 💻
 
 Faça esse curso e:<br>
 ✅ **Aprenda o module bundler mais popular do mercado**<br>

@@ -6,8 +6,7 @@
 
 Este curso faz parte da Formação Front End do programa Acelera Devs .
  
-O Acelera Devs é um programa de capacitação e formação de desenvolvedores full-stack. A iniciativa surgiu como uma resposta à alta demanda do mercado por desenvolvedores, uma vez que, segundo levantamento da Brasscom, há um déficit de 24 mil formandos na área de Tecnologia da Informação (TI). 
-
+O Acelera Devs é um programa de capacitação e formação de desenvolvedores full-stack. A iniciativa surgiu como uma resposta à alta demanda do mercado por desenvolvedores, uma vez que, segundo levantamento da Brasscom, há um déficit de 24 mil formandos na área de Tecnologia da Informação (TI)
 
 ## Instalação 💻
 

@@ -1,8 +1,7 @@
 # Webpack: Manipulando módulos na sua webapp
 
 <h1>
-   <img src="https://scontent.fsjk2-1.fna.fbcdn.net/v/t1.0-9/160417407_4103477896350448_1484625622137254896_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=0debeb&_nc_ohc=WlelwpTJDfUAX8BhFPL&_nc_ht=scontent.fsjk2-1.fna&oh=ece48054d66aa11b8678a28d9f9f8b14&oe=60725CF4" border="0">
-</h1>
+  <img src="https://i.ibb.co/qdYQMGB/WEBPACK-MANIPULANDO-M-DULOS-NA-SUA-WEBAPP.png" alt="WEBPACK-MANIPULANDO-M-DULOS-NA-SUA-WEBAPP" border="0"></h1>
 
 Este curso faz parte da Formação Front End do programa Acelera Devs .
  
